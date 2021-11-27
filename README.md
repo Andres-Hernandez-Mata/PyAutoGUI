@@ -1,2 +1,2 @@
-# Pyautogui
-Llenado de formularios con pyautogui
+# PyAutoGUI
+Llenado de formularios con PyAutoGUI
