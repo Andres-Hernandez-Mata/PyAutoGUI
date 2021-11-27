@@ -19,7 +19,7 @@ while i <= 2:
         time.sleep(2)
         pyautogui.press('tab')
 
-         #Pregunta3
+        #Pregunta3
         pyautogui.click(x=384, y=440, clicks=1)
         time.sleep(1)
         pyautogui.click(x=398, y=636, clicks=1)
